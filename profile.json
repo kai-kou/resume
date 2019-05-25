@@ -1,1 +1,74 @@
-{}
+{
+  "basics": {
+    "name": "kou kai",
+    "label": "Engineer",
+    "picture": "https://avatars1.githubusercontent.com/u/41495183?s=460&v=4",
+    "email": "uokiak@gmail.com",
+    "phone": "",
+    "website": "https://qiita.com/kai_kou",
+    "summary": "2004年からWeb系のシステムエンジニアとして開発、運用、マネジメントを経験。現在はアイレット(クラウドパック)に所属。",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Osaka",
+      "countryCode": "JP",
+      "region": "Osaka"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "甲斐 甲",
+        "url": "http://twitter.com/k_aik_ou"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "iret,inc.",
+      "position": "Engineer",
+      "website": "https://www.iret.co.jp/",
+      "startDate": "2018-07-25",
+      "endDate": "",
+      "summary": "インフラ構築から、システム開発まで一貫したワンストップサービスを",
+      "highlights": [
+      ]
+    }
+  ],
+  "volunteer": [
+  ],
+  "education": [
+  ],
+  "awards": [
+  ],
+  "publications": [],
+  "skills": [{
+    "name": "Web Development",
+    "level": "Beginner",
+    "keywords": [
+      "HTML",
+      "SCSS",
+      "Javascript"
+    ]
+  }],
+  "languages": [
+    {
+      "language": "Japanese",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Thrash Metal",
+      "keywords": [
+        "Metallica",
+        "Slayer",
+        "Megadeth",
+        "Anthrax",
+        "Testament",
+        "Destruction"
+      ]
+    }
+  ],
+  "references": [
+  ]
+}
